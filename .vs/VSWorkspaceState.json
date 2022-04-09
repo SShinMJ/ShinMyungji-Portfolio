@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\plugins",
+    "\\assets\\plugins\\themify-icons\\fonts",
+    "\\assets\\scss",
+    "\\assets\\scss\\templates",
+    "\\_includes",
+    "\\_layouts",
+    "\\_pages",
+    "\\_posts"
+  ],
+  "SelectedNode": "\\_includes\\education-section.html",
+  "PreviewInSolutionExplorer": false
+}
