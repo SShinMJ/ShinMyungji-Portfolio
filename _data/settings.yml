@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
 - {name: Info, link: '#info'}
 - {name: skill, link: '#skills'}
-- {name: Portfolio, link: '/portfolio'}
+- {name: Portfolio, link: '#portfolio'}
 - {name: Contact, link: '#contact'}
 
 
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 기획부터 개발까지! <br><span><br></span> 웹 서비스에 대한 이해도 최상! <br><span><br></span> 늘 발전하는 신명지입니다
+  hero-title: 기획부터 개발까지 <br><span><br></span> 웹 서비스의 전체적인 이해도 겸비! <br><span><br></span> 준비된 서비스 기획자 신명지입니다
 
 
 #-------------------------------
@@ -46,7 +46,7 @@ hero:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  oooooooooooooooo <br> 간단 자기소개 글을 쓰는 공간 <br> 지원 직종에 따라 맞게 쓰기 <br> oooooooooooooooo
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -69,19 +69,11 @@ work-process:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-# My Team Section
+# Info Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  - title : "신명지"
+    image : "assets/images/about/me_title.jpg"
+    designation : "1998.10.06 / 25세"
 
 
 #-------------------------------
@@ -89,10 +81,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Service planing, color: '#fdb157', value: '70%'}
+- {name: UI/UX design, color: '#9473e6', value: '40%'}
+- {name: developing, color: '#bdecf6', value: '80%'}
+- {name: etc, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -110,7 +102,7 @@ experience:
 
 education-title: Info
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: 단국대학교 소프트웨어 전공, date: '학력 및 수행 프로젝트', organization: '-'}
 #- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
 #- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
 #- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
